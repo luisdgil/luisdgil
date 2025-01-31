@@ -1,4 +1,4 @@
-![Github Banner]([https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png](https://github.com/luisdgil/luisdgil/blob/main/Azul%20Negro%20Pintura%20Abstracta%20Oscuro%20Minimalista%20Interfaz%20de%20Usuario%20Fondo%20de%20Pantalla%20para%20Tel%C3%A9fono.png))
+![Github Banner](https://raw.githubusercontent.com/luisdgil/luisdgil/refs/heads/main/Azul%20Negro%20Pintura%20Abstracta%20Oscuro%20Minimalista%20Interfaz%20de%20Usuario%20Fondo%20de%20Pantalla%20para%20Tel%C3%A9fono%20(3).png)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Luis -->
