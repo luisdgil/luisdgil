@@ -1,4 +1,4 @@
-<div style="display: inline-block; background-image: Negro Pintura Abstracta Oscuro Minimalista Interfaz de Usuario Fondo de Pantalla para Teléfono.png; background-size: cover; background-position: center; padding: 10px; border-radius: 15px; text-align: center;">
+<div style="display: inline-block; background-image: url('https://raw.githubusercontent.com/luisdgil/luisdgil/main/Azul%20Negro%20Pintura%20Abstracta%20Oscuro%20Minimalista%20Interfaz%20de%20Usuario%20Fondo%20de%20Pantalla%20para%20Tel%C3%A9fono.png'); background-size: cover; background-position: center; padding: 10px; border-radius: 15px; text-align: center;">
   <img alt="Mi Foto" src="IMG_0023-Photoroom (1).jpg" width="150" style="border-radius: 50%;" />
 </div>
 
