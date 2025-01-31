@@ -1,5 +1,6 @@
-
-<img alt="Mi Foto" src="IMG_0023-Photoroom (1).jpg" width="150" style="border-radius: 50%;" />
+<div style="display: inline-block; background-image: Negro Pintura Abstracta Oscuro Minimalista Interfaz de Usuario Fondo de Pantalla para Teléfono.png; background-size: cover; background-position: center; padding: 10px; border-radius: 15px; text-align: center;">
+  <img alt="Mi Foto" src="IMG_0023-Photoroom (1).jpg" width="150" style="border-radius: 50%;" />
+</div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Luis -->
 
